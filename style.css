@@ -1,0 +1,32 @@
+#display {
+    margin-left: 3rem;
+    /* background-color: aqua; */
+    margin-top: 1rem;
+}
+
+#display p {
+    margin-top: 0.5rem;
+    position: relative;
+}
+
+#container {
+    background-color: aquamarine;
+    display: flex;
+    flex-direction: column;
+    padding: 2rem;
+    border-radius: 2rem;
+}
+
+body {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+input {
+    border-radius: 0.5rem;
+}
+
+button {
+    border-radius: 0.5rem;
+}
