@@ -9,6 +9,10 @@
     position: relative;
 }
 
+#display h3 {
+    color: red;
+}
+
 #container {
     background-color: aquamarine;
     display: flex;
