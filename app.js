@@ -1,7 +1,7 @@
 console.log("hi");
 let count = 0;
 let randomNumber = Math.floor(Math.random() * 10 + 1);
-console.log(randomNumber);
+// console.log(randomNumber);
 
 function t() {
     let message;
